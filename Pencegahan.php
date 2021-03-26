@@ -10,13 +10,13 @@
 
 	<header>
 		<div class="container">
-			<h1><a href="index.html">EDU-COVID</a></h1>
+			<h1><a href="index.php">EDU-COVID</a></h1>
 			<ul>
-				<li><a href="index.html">Beranda</a></li>
-				<li class="active"><a href="Pencegahan.html">Pencegahan</a></li>
-				<li><a href="Data_Statistik.html">Data dan Statistik</a></li>
-				<li><a href="popquiz.html">Kuis</a></li>
-				<li><a href="Kontak.html">Kontak</a></li>
+				<li><a href="index.php">Beranda</a></li>
+				<li class="active"><a href="Pencegahan.php">Pencegahan</a></li>
+				<li><a href="Data_Statistik.php">Data dan Statistik</a></li>
+				<li><a href="popquiz.php">Kuis</a></li>
+				<li><a href="Kontak.php">Kontak</a></li>
 			</ul>
 		</div>
 		<hr>
