@@ -12,7 +12,7 @@
 		<div class="container">
 			<h1><a href="index.html">EDU-COVID</a></h1>
 			<ul>
-				<li><a href="index.html">Beranda</a></li>
+				<li><a href="index.htmls>Beranda</a></li>
 				<li><a href="Pencegahan.html">Pencegahan</a></li>
 				<li><a href="Data_Statistik.html">Data dan Statistik</a></li>
 				<li><a href="popquiz.html">Kuis</a></li>
